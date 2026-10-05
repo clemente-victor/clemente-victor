@@ -57,4 +57,4 @@ Busco oportunidades de estágio nas áreas de Dados, Analytics, BI e tecnologia,
 
 [LinkedIn](https://www.linkedin.com/in/victor-clemente/)
 
-[GitHub]([SEU_GITHUB](https://github.com/clemente-victor))
+[GitHub](https://github.com/clemente-victor)
