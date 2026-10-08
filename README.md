@@ -49,9 +49,7 @@ programação, dados e tecnologia.
 
 Aqui compartilharei projetos acadêmicos, estudos e projetos pessoais relacionados a dados, programação e tecnologia.
 
-## 🐍 Minhas contribuições
-
-## 🐍 Minhas contribuições
+## 🐍 Dias ativo no git
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/clemente-victor/clemente-victor/output/github-contribution-grid-snake.svg" alt="Snake animation" />
