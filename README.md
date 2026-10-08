@@ -51,7 +51,11 @@ Aqui compartilharei projetos acadêmicos, estudos e projetos pessoais relacionad
 
 ## 🐍 Minhas contribuições
 
-![Snake animation](https://raw.githubusercontent.com/clemente-victor/clemente-victor/output/github-contribution-grid-snake.svg)
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/clemente-victor/clemente-victor/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## 🎯 Objetivo profissional
 
