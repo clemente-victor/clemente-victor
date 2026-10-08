@@ -23,33 +23,27 @@ Na UFABC, venho desenvolvendo minha base em matemática, estatística, programa�
 - VBA
 - Git & GitHub
 
-## 📚 Atualmente estudando
-
-- Python para análise de dados
-- SQL
-- Estatística e Probabilidade
-- Power BI
-- Fundamentos de Ciência de Dados
-- Inteligência Artificial
-
 ## 📚 Estudos
 
-Atualmente estou compartilhando minha jornada de aprendizado,
-com estudos da UFABC e cursos/projetos pessoais nas áreas de
-programação, dados e tecnologia.
+Atualmente estou compartilhando minha jornada de aprendizado, com estudos da UFABC, cursos e projetos pessoais nas áreas de programação, dados e tecnologia.
 
-- 🐍 Python
+- 🐍 Python para análise de dados
 - 🗄️ SQL
 - 📊 Power BI
 - 📈 Estatística e Probabilidade
 - 🔢 NumPy e Pandas
 - 💻 Fundamentos de programação
+- 🤖 Inteligência Artificial
+- 🧠 Fundamentos de Ciência de Dados
 
 ## 🚀 Projetos
 
 Aqui compartilharei projetos acadêmicos, estudos e projetos pessoais relacionados a dados, programação e tecnologia.
 
-## 🐍 Dias ativo no git
+## 🐍 Dias ativos no Git
+
+Meu primeiro commit 🚀  
+A partir daqui começa a documentação da minha evolução e construção de projetos por aqui.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/clemente-victor/clemente-victor/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -61,6 +55,8 @@ Busco oportunidades de estágio nas áreas de Dados, Analytics, BI e tecnologia,
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/victor-clemente/)
+📧 [E-mail](mailto:clemente0404@outlook.com)
 
-[GitHub](https://github.com/clemente-victor)
+💼 [LinkedIn](https://www.linkedin.com/in/victor-clemente/)
+
+💻 [GitHub](https://github.com/clemente-victor)
