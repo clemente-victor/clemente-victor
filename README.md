@@ -49,6 +49,10 @@ programação, dados e tecnologia.
 
 Aqui compartilharei projetos acadêmicos, estudos e projetos pessoais relacionados a dados, programação e tecnologia.
 
+## 🐍 Minhas contribuições
+
+![Snake animation](https://raw.githubusercontent.com/clemente-victor/clemente-victor/output/github-contribution-grid-snake.svg)
+
 ## 🎯 Objetivo profissional
 
 Busco oportunidades de estágio nas áreas de Dados, Analytics, BI e tecnologia, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e transformar dados em soluções para problemas reais.
