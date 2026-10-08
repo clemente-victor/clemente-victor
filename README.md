@@ -43,7 +43,7 @@ Aqui compartilharei projetos acadêmicos, estudos e projetos pessoais relacionad
 ## 🐍 Dias ativos no Git
 
 Meu primeiro commit 🚀  
-A partir daqui começa a documentação da minha evolução e construção de projetos por aqui.
+Começa por ele a documentação da minha evolução e construção de projetos por aqui.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/clemente-victor/clemente-victor/output/github-contribution-grid-snake.svg" alt="Snake animation" />
